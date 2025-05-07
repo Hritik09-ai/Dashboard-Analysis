@@ -46,6 +46,6 @@ The data shown is for demonstration purposes and represents simulated retail dat
 
 Created by [HRITIK SINGH]  
 📧 [hritikt990@gmail.com]  
-🔗 [Your LinkedIn or GitHub link]
+🔗 [linkedin.com/in/hritik-singh5]
 
 ---
