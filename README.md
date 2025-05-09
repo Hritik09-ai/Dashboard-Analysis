@@ -7,7 +7,7 @@ Welcome to my Excel Dashboard project! This repository contains an interactive a
 
 This Excel dashboard was created to visualize and analyze data related to [sales performance, financial analysis, metrics, etc.]. It features dynamic charts, slicers, and pivot tables that make it easy to explore the data and uncover insights.
 
-! [Image Alt](https://github.com/Hritik09-ai/Dashboard-Analysis/blob/acf349abda5321c17b43202406129241aacb10cd/Screenshot%20(6).png)
+![Image Alt](https://github.com/Hritik09-ai/Dashboard-Analysis/blob/acf349abda5321c17b43202406129241aacb10cd/Screenshot%20(6).png)
 
  ✅ Features
 
